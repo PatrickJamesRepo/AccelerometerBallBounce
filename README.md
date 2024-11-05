@@ -1,4 +1,5 @@
-# Accelerometer Ball Bounce Game
+![Alien Launch](alienlaunch.png)
+# Accelerometer UFO Ball Bounce Game
 
 This project is an Android game that uses the device's accelerometer to control bouncing balls within a constrained area. The game includes multiple interactive features, such as dynamic background transitions, score tracking, and responsive collision detection with pads.
 
